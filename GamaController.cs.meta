@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50d8354a7dfdbaf4e8ab9b714fefbdec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ballSpawnPoint: {instanceID: 0}
+  - ball: {instanceID: 0}
+  - lentMove: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
